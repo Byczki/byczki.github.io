@@ -13,3 +13,5 @@ https://code.visualstudio.com/docs/?dv=win32user
 6. Zaloguj się do jakiegoś konta github/microsoft
 7. Naciśnij CTRL+Shift+P i wpisz live share join
 8. Wklej link. To wszystko.
+
+2
