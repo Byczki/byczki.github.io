@@ -1,6 +1,5 @@
 # Dane do grupy:
-[https://insiders.liveshare.vsengsaas.visualstudio.com/join?B9F1045E031A7685268A89590E38E6700B30
-](https://insiders.liveshare.vsengsaas.visualstudio.com/join?B9F1045E031A7685268A89590E38E6700B30
+[https://insiders.liveshare.vsengsaas.visualstudio.com/join?F093C334CCD835EE2103431A0D543246BD82](https://insiders.liveshare.vsengsaas.visualstudio.com/join?F093C334CCD835EE2103431A0D543246BD82
 )
 
 ## Link do programu
